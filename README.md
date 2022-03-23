@@ -13,12 +13,12 @@
 - [x] Wind WFT 万得 - [Wind-金融终端](https://www.wind.com.cn/NewSite/wft.html)
 - [x] 懂牛 - [懂牛股票官方网站](http://b3.dn8188.com/)
 - [x] 朝阳永续 - Go Goal [Go-Goal 金融终端](https://www.go-goal.com/product/gogoal)
-- [ ] 选股宝 - 没有 PC 端 [选股宝 | 选股宝 - 发现好股票](https://xuangubao.cn/)
-- [ ] 北向资金 - 不是软件
-- [ ] 海豚 - ios + android [海豚股票](https://www.wenxingonline.com/) 无 PC
+- [x] 选股宝 - 没有 PC 端 [选股宝 | 选股宝 - 发现好股票](https://xuangubao.cn/)，可用安卓模拟器
+- [x] 海豚 - ios + android [海豚股票](https://www.wenxingonline.com/) 无 PC，可用安卓模拟器
 - [x] 中证金投顾 - 没找到官网，找的 PC6 分流 [金投顾软件-金投顾下载 v1.9.2 官方免费版--pc6 下载站](http://www.pc6.com/softview/SoftView_256912.html)
 - [x] 同花顺 - [同花顺股票软件官方下载-免费炒股软件,手机炒股软件,股票分析软件,股票交易软件,股票行情软件下载](http://download.10jqka.com.cn/)
 - [x] 东方财富 - [东方财富终端--东方财富 PC 客户端](https://emdesk.eastmoney.com/pc_activity/Pages/VIPTrade/pages/index.html)
+- [ ] 北向资金 - 不是软件，好像是另一个软件有它的版本
 - [ ] 待补充
 
 ## 以及大陆通讯软件
