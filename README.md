@@ -10,14 +10,16 @@
 - [x] 涨乐财富通 电脑版本叫 华泰专业版 Ⅲ 华泰证券网上交易中心 [PC 炒股软件专业版下载-华泰证券官方网站](https://www.htsc.com.cn/browser/softInfoAction.do?method=searchP¤tMenu=softInfo)
 - [x] 国泰君安君弘（大姆指） - 电脑叫 富易 [手机炒股软件\_应用中心｜软件下载-国泰君安证券](https://www.gtja.com/content/download.html)
 - [x] 基本面（据说消息多，好用） 基本面金融终端 [专业的金融行情、数据分析以及投资研究终端](http://jbmstock.com/)
-- [x] Wind WFT - [Wind-金融终端](https://www.wind.com.cn/NewSite/wft.html)
+- [x] Wind WFT 万得 - [Wind-金融终端](https://www.wind.com.cn/NewSite/wft.html)
 - [x] 懂牛 - [懂牛股票官方网站](http://b3.dn8188.com/)
 - [x] 朝阳永续 - Go Goal [Go-Goal 金融终端](https://www.go-goal.com/product/gogoal)
 - [ ] 选股宝 - 没有 PC 端 [选股宝 | 选股宝 - 发现好股票](https://xuangubao.cn/)
 - [ ] 北向资金 - 不是软件
 - [ ] 海豚 - ios + android [海豚股票](https://www.wenxingonline.com/) 无 PC
 - [x] 中证金投顾 - 没找到官网，找的 PC6 分流 [金投顾软件-金投顾下载 v1.9.2 官方免费版--pc6 下载站](http://www.pc6.com/softview/SoftView_256912.html)
-- [ ] 待补充。。。
+- [x] 同花顺 - [同花顺股票软件官方下载-免费炒股软件,手机炒股软件,股票分析软件,股票交易软件,股票行情软件下载](http://download.10jqka.com.cn/)
+- [x] 东方财富 - [东方财富终端--东方财富 PC 客户端](https://emdesk.eastmoney.com/pc_activity/Pages/VIPTrade/pages/index.html)
+- [ ] 待补充
 
 ## 以及大陆通讯软件
 
